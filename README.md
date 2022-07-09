@@ -1,1 +1,1 @@
-# Pricing-Panel-ResponsiveColtSteele-
+# Pricing-Panel-ResponsiveColtSteele Project
